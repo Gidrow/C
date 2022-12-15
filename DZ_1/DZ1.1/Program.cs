@@ -10,7 +10,6 @@ if(SN = FN*FN)
     Console.WriteLine("Первое число является квадратом второго");
     Console.WriteLine("b");
 }
-
 else 
 {
     Console.WriteLine("Первое число не квадрат второго");

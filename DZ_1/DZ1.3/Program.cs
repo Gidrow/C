@@ -8,9 +8,7 @@ Console.Write("Введите первое число: ");
 int c = int.Parse(Console.ReadLine()!);
 
 int max;
-int min;
 
-min = 1;
 max = 1;
 
 if(b>a)

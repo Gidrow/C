@@ -1,26 +1,9 @@
-﻿Console.Write("Введите число: ");
-int a = int.Parse(Console.ReadLine()!);
-
-
-int max;
-int min;
-
-min = 1;
-max = 1;
-
-if(b>a)
+﻿int a = int.Parse(Console.ReadLine()!);
+if ((a % 2) == 0)
 {
-    max = b;
+    Console.Write("Четное");
 }
 else
 {
-    max = a;
+    Console.WriteLine("Нечетное");
 }
-
-if(max<c)
-{
-    max = c;
-}
-
-Console.Write("Максимальное число:  ");
-Console.Write(max);

@@ -3,3 +3,13 @@ C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.GeneratedMSBu
 C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.AssemblyInfoInputs.cache
 C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.AssemblyInfo.cs
 C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.csproj.CoreCompileInputs.cache
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\bin\Debug\net6.0\DZ1.1.exe
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\bin\Debug\net6.0\DZ1.1.deps.json
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\bin\Debug\net6.0\DZ1.1.runtimeconfig.json
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\bin\Debug\net6.0\DZ1.1.dll
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\bin\Debug\net6.0\DZ1.1.pdb
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.dll
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\refint\DZ1.1.dll
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.pdb
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\DZ1.1.genruntimeconfig.cache
+C:\Users\Gidrow93\Desktop\C#\S_1\DZ_1\DZ1.1\obj\Debug\net6.0\ref\DZ1.1.dll

@@ -1,5 +1,20 @@
-﻿Console.Write("Введите число: ");
-int a= int.Parse(Console.ReadLine()!);
+﻿
+int numberA = new Random().Next(10, 99);
+Console.WriteLine(numberA);
 
-int LN = (a % 10);
-Console.Write(LN);
+if (numberA > 10 && numberA < 99)
+{
+if (numberA / 10 > numberA % 10)
+{
+        Console.WriteLine("Первая цифра больше");
+}
+
+else
+
+if (numberA / 10 == numberA % 10)
+{
+        Console.WriteLine("Цифры одинаковы");
+}
+else
+Console.WriteLine("Вторая цифра больше");
+}

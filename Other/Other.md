@@ -24,3 +24,5 @@ int max = Max(
 // Console.WriteLine(max1);
 // Console.WriteLine(max2);
 // Console.WriteLine(max3);
+
+End Lesson 2

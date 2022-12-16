@@ -15,7 +15,7 @@ a3 = 3;
 a4 = 4;
 a5 = 5;
 a6 = 6;
-a7 = 8;
+a7 = 7;
 
 if(a == a1)
 {
@@ -52,3 +52,7 @@ if(a == a7)
     Console.WriteLine("Воскресенье");
 }
 
+if(a > 7)
+{
+    Console.WriteLine("Неверное число");
+}

@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите число: ");
 int a = int.Parse(Console.ReadLine()!);
-string b = a.ToString();
+var b = a.ToString();
 
 if (a > 100)
 {

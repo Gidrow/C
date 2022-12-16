@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите трехзначное число");
+﻿Console.WriteLine("Введите трехзначное число: ");
 int a = int.Parse(Console.ReadLine()!);
 
 if (a > 99 && a < 1000)
@@ -8,6 +8,6 @@ if (a > 99 && a < 1000)
 }
 else
 {
-    Console.WriteLine("Введино неверное число");
+    Console.WriteLine("Введино неверное число: ");
 
 }

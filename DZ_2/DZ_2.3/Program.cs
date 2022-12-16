@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Число");
+﻿Console.WriteLine("Введите Число: ");
 int a = int.Parse(Console.ReadLine()!);
 
 if (a>1 && a<7)

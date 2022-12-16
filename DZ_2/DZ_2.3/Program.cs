@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Введите Число: ");
 int a = int.Parse(Console.ReadLine()!);
 
-if (a > 1 && a < 7)
+if (a > 1 && a < 8)
 {
     if (a == 1) Console.WriteLine("Нет");
     if (a == 2) Console.WriteLine("Нет");

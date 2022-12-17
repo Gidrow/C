@@ -2,9 +2,9 @@
 int a = int.Parse(Console.ReadLine()!);
 var b = a.ToString();
 
-if (a > 100)
+if (a > 99)
 {
-    Console.WriteLine(b[2]);
+    Console.WriteLine("Третья цифра: " + b[2]);
 }
 else
 {

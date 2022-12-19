@@ -6,22 +6,22 @@
 
 
 Console.WriteLine("Введите x1: ");
-int x1 = int.Parse(Console.ReadLine()!);
+double x1 = double.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите y1: ");
-int y1 = int.Parse(Console.ReadLine()!);
+double y1 = double.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите z1: ");
-int z1 = int.Parse(Console.ReadLine()!);
+double z1 = double.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите x2: ");
-int x2 = int.Parse(Console.ReadLine()!);
+double x2 = double.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите y2: ");
-int y2 = int.Parse(Console.ReadLine()!);
+double y2 = double.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите z2: ");
-int z2 = int.Parse(Console.ReadLine()!);
+double z2 = double.Parse(Console.ReadLine()!);
 
 double a = Math.Pow(x2 - x1, 2);
 
@@ -40,5 +40,4 @@ var Res = result.ToString();
 // Console.Write(Res[4]);
 
 Console.WriteLine($"Расстояние между точками:  {Res[0]}{Res[1]}{Res[2]}{Res[3]}{Res[4]}"); 
-
 

@@ -33,11 +33,6 @@ double result = Math.Sqrt(a + b + c);
 
 var Res = result.ToString();
 
-// Console.Write("Длинна:" + Res[0]);
-// Console.Write(Res[1]); 
-// Console.Write(Res[2]); 
-// Console.Write(Res[3]);  
-// Console.Write(Res[4]);
 
 Console.WriteLine($"Расстояние между точками:  {Res[0]}{Res[1]}{Res[2]}{Res[3]}{Res[4]}"); 
 

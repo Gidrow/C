@@ -38,6 +38,15 @@
 //     // a += 1;
 // }
 
+// Console.WriteLine("Введите Число: ");
+// int a = int.Parse(Console.ReadLine()!);
+
+
+// for (int count  = 0; count <= a; count++)
+// {
+//     Console.WriteLine(count); 
+// }
+
 
 // Условные выражения
 // == - проверка на равенство

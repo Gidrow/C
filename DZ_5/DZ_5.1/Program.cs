@@ -25,4 +25,4 @@ for (int i = 0; i < array.Length; i++)
 }
 Console.WriteLine("]");
 Console.WriteLine();
-Console.WriteLine($"Кколичество чётных чисел в массиве: {colElem}");
+Console.WriteLine($"Количество чётных чисел в массиве: {colElem}");

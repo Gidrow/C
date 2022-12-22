@@ -3,7 +3,7 @@
 // [3 7 22 2 78] -> 76
 
 
-// double[] array = new double[5, 10];
+// int[] array = new int[10];
 // Random Random = new Random();
 
 // int Max = 1;
@@ -39,6 +39,9 @@
 
 // Console.WriteLine($"{Max} - {Min} = {Max -Min}"); 
 // Console.WriteLine();
+
+
+
 
 double[] array = new double[10];
 

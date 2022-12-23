@@ -8,9 +8,9 @@
 
 
 Console.WriteLine("Введите числа через пробел: ");
-string inputText = Console.ReadLine(); // "4 5 2"
+string inputText = Console.ReadLine(); 
 
-string[] stringArray = inputText.Split(' '); // ["4", "5", "2"]
+string[] stringArray = inputText.Split(' '); 
 
 int[] arr = new int[stringArray.Length];
 

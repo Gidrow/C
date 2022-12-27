@@ -9,7 +9,7 @@
 int[] array = new int[6];
 Random Random = new Random();
 
-int count = 0;
+
 
 Console.WriteLine();
 Console.Write("[");

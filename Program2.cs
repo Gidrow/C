@@ -126,6 +126,8 @@
 // Split - разбиение строки на части по какому-то символу
 
 
+
+
 // Console.WriteLine("Введите числа через пробел: ");
 // string inputText = Console.ReadLine(); // получаем текст с консоли
 // string[] stringArray = inputText.Split(' ');
@@ -133,4 +135,20 @@
 // for (int i = 0; i < stringArray.Length; i++)
 // {
 //     Console.WriteLine(stringArray[i]);
+// }
+
+
+
+
+
+// for (int i = 0; i < array.Length; i++)
+// {
+//     if (i == array.Length - 1)
+//     {
+//         Console.Write(array[i] + ".");
+//     }
+//     else 
+//     {
+//         Console.Write(array[i] + ", ");
+//     }
 // }

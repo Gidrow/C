@@ -74,26 +74,132 @@
 
 
 
-string text = "aq aq aq aq";
+// string text = "aq aq aq aq";
 
 
-string replace(string text1, char old, char new1)
+// string replace(string text1, char old, char new1)
+// {
+//     string result = String.Empty;
+
+//     int length = text1.Length;
+//     for (int i = 0; i < length; i++)
+//     {
+//         if (text1[i] == old) result = result + $"{new1}";
+//         else result = result + $"{text1[i]}";
+//     }
+
+//     return result;
+
+// }
+
+// string newText = replace(text, 'a', 'b');
+
+// Console.WriteLine(newText);
+// Console.WriteLine();
+
+
+
+
+
+
+
+// int[] array = new int[10];
+// Random Random = new Random();
+
+// double sumElem = 0;
+// double sumElem2 = 0;
+
+// Console.WriteLine();
+// Console.Write("[");
+
+// for (int i = 0; i < array.Length; i++)
+// {
+
+//     array[i] = Random.Next(-10, 10);
+//     Console.Write("  " + array[i] + "  ");
+
+//     if (array[i] % 2 > 0 && array[i] > 0)
+//     {
+//         sumElem = sumElem + array[i];
+//     }
+
+//     if (array[i] % 2 < 0 && array[i] < 0)
+//     {
+//         sumElem2 = sumElem2 + array[i];
+//     }
+// }
+// Console.WriteLine("]");
+// Console.WriteLine();
+
+// Console.WriteLine($"Найдите сумму элементов, стоящих на нечётных позициях: {sumElem + sumElem2}");
+
+
+
+
+
+
+
+// Console.Write("Введите число N ");
+// int n = int.Parse(Console.ReadLine());
+
+// Console.Write("Введите число N ");
+// int m = int.Parse(Console.ReadLine());
+
+
+
+// Console.WriteLine();
+// Console.Write("[");
+
+
+// int[,] array = new int[n, m];
+
+// for (int i = 0; i < array.GetLength(0); i++)
+// {
+//     for (int j = 0; j < array.GetLength(1); j++)
+//     {
+//         array[n, m] = new Random().Next(0, 10);
+//         Console.Write("  " + array[i, j] + "  ");
+//     }
+// }
+
+// Console.WriteLine("]");
+// Console.WriteLine();
+
+
+
+
+
+
+
+
+
+for (int i = 0; i < 4; i++)
 {
-    string result = String.Empty;
+    int summ = 0;
+    int count = 0;
 
-    int length = text1.Length;
-    for (int i = 0; i < length; i++)
+    int SummMeth()
     {
-        if (text1[i] == old) result = result + $"{new1}";
-        else result = result + $"{text1[i]}";
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+
+                if (count == j) summ = summ + array[i, j];
+
+            }
+
+        }
+        return summ;
     }
 
-    return result;
+    int ys = SummMeth();
+    Console.WriteLine(ys);
 
+
+
+
+    
 }
-
-string newText = replace(text, 'a', 'b');
-
-Console.WriteLine(newText);
-Console.WriteLine();
 
